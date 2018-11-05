@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/common-jar/pom.xml" />
         <option value="$PROJECT_DIR$/business-service/pom.xml" />
         <option value="$PROJECT_DIR$/boot-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/business-service/web-service/pom.xml" />
       </list>
     </option>
   </component>

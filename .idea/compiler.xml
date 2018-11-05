@@ -10,13 +10,15 @@
         <module name="boot-parent" />
         <module name="business-service" />
         <module name="common-jar" />
+        <module name="web-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="base-service" target="1.8" />
       <module name="boot-parent" target="1.8" />
-      <module name="business-service" target="1.8" />
+      <module name="business-service" target="1.5" />
       <module name="common-jar" target="1.8" />
+      <module name="web-service" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

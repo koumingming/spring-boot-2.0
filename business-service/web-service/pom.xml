@@ -4,11 +4,17 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.boot</groupId>
-	<artifactId>business-service</artifactId>
+	<artifactId>web-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<name>business-service</name>
-	<modules>
-		<module>web-service</module>
-	</modules>
+	<name>web-service</name>
+
+	<parent>
+		<groupId>com.boot</groupId>
+		<artifactId>boot-parent</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+		<relativePath>../../boot-parent/pom.xml</relativePath>
+	</parent>
+
+
 </project>

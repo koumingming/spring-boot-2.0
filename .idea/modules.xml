@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/business-service/business-service.iml" filepath="$PROJECT_DIR$/business-service/business-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-jar/common-jar.iml" filepath="$PROJECT_DIR$/common-jar/common-jar.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot-2.0.iml" filepath="$PROJECT_DIR$/.idea/spring-boot-2.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business-service/web-service/web-service.iml" filepath="$PROJECT_DIR$/business-service/web-service/web-service.iml" />
     </modules>
   </component>
 </project>
